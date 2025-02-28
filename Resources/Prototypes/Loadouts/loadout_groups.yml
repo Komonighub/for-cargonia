@@ -19,6 +19,7 @@
   - CigarCase
   - CigarGold
   - ClothingNeckLGBTPin
+  - ClothingNeckAllyPin
   - ClothingNeckAromanticPin
   - ClothingNeckAsexualPin
   - ClothingNeckBisexualPin
@@ -27,6 +28,8 @@
   - ClothingNeckLesbianPin
   - ClothingNeckNonBinaryPin
   - ClothingNeckPansexualPin
+  - ClothingNeckOmnisexualPin
+  - ClothingNeckGenderqueerPin
   - ClothingNeckTransPin
   - ClothingNeckAutismPin
   - ClothingNeckGoldAutismPin
@@ -171,6 +174,7 @@
   minLimit: 0
   loadouts:
   - HoPWintercoat
+
 
 # Civilian
 - type: loadoutGroup
@@ -438,6 +442,15 @@
   loadouts:
   - JesterHat
   - JesterAltHat
+
+- type: loadoutGroup # - Funkystation
+  id: ClownMask
+  name: loadout-group-clown-mask
+  loadouts:
+  - ClownMask
+  - ClownMaskDevil
+  - ClownMaskGamble
+  - ClownMaskJuggle
 
 - type: loadoutGroup
   id: ClownJumpsuit

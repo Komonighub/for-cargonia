@@ -17,7 +17,6 @@ using Robust.Shared.Map;
 using Robust.Shared.Map.Components;
 using Robust.Shared.Prototypes;
 using Content.Shared.Station.Components;
-using FastAccessors;
 using Robust.Shared.Utility;
 using YamlDotNet.RepresentationModel;
 
@@ -74,10 +73,15 @@ namespace Content.IntegrationTests.Tests
             "Barratry", // Goobstation - add Barratry
             "Kettle", // Goobstation - add Kettle
             "Amber",
-      "Hot Springs",
+            "Hot Springs",
             "Gate",
             "Loop",
-            "roid_outpost"
+            "roid_outpost",
+            "DMVStation",
+            "Plasma",
+            "Elkridge",
+            "Convex",
+            "Relic"
         };
 
         /// <summary>
