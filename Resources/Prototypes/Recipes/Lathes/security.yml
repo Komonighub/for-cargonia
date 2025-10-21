@@ -763,3 +763,14 @@
     Plastic: 1000
     Plasma: 500
     Glass: 500
+
+# funkystation start
+- type: latheRecipe
+  id: GrenadeStinger
+  result: GrenadeStinger
+  completetime: 3
+  materials:
+    Steel: 300
+    Plastic: 100
+    Glass: 100
+    
