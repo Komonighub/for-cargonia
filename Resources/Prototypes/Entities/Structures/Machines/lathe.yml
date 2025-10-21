@@ -515,6 +515,7 @@
     - RiotShield
     - SpeedLoaderMagnum
     - SpeedLoaderMagnumEmpty
+    - GrenadeStinger # funkystation
     - GrenadeFlashBang # Goobstation
     - BolaEnergy # Goobstation
     - MagazinePistolCaselessRifle # Goobstation
@@ -679,7 +680,6 @@
     - GrenadeBlast
     - GrenadeEMP
     - GrenadeFlash
-    - GrenadeStinger #funkystation
     - HoloprojectorSecurity
     - MagazineBoxLightRifleIncendiary
     - MagazineBoxLightRifleUranium
@@ -1138,6 +1138,7 @@
     - WeaponFlareGunSecurity
     - WeaponLaserCarbinePractice
     - Zipties
+    - GrenadeStinger # Funkystation
     - GrenadeFlashBang # Goobstation
     - BolaEnergy # Goobstation
     - CartridgeEmergency # Goobstation
