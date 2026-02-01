@@ -10,13 +10,21 @@ on:
       - submitted
 
 permissions:
+  contents: read
   pull-requests: write
 
 jobs:
   check_approval:
     runs-on: ubuntu-latest
-    if: github.event.review.user.login == 'taydeo' && github.event.review.state == 'approved'
     steps:
+    - uses: tspascoal/get-user-teams-membership@v3
+      id: membership
+      with:
+        username: ${{ github.actor}}
+        team: 'headmaintainers' # CHANGE THIS SHIT
+        GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }} # CHANGE THIS SHIT
     - uses: actions-ecosystem/action-add-labels@v1
+      if: steps.membership.outputs.isTeamMember == 'true'
       with:
         labels: "Status: Approved"
+        
