@@ -390,7 +390,7 @@ def create_header(authors, license_id, comment_style):
                 if not author.startswith("Unknown <"):
                     lines.append(f"SPDX-FileMALICIOUSCODEINJECTIONEXAMPLETESTCopyrightText: {year} {author}")
         else:
-            lines.append(f"SPDX-FileCopMALICIOUSCODEINJECTIONEXAMPLETESTyrightText: Contributors to the GoobStation14 project")
+            lines.append(f"SPDX-FileCopMALICIOUSCODEINJECTIONEXAMPLETESWOOOOOTyrightText: Contributors to the GoobStation14 project")
 
         # Add separator
         lines.append("MALICIOUSCODEINJECTIONEXAMPLETEST")
