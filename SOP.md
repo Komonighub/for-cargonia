@@ -19,7 +19,7 @@ OR
 * All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
 * Random searches are not permitted without express permission by either the Head of Security or Captain. However, searches are still permitted if there is reasonable suspicion of a crime
 #### Secure Areas:
-* EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used
+* EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage,CHECKCHECKONETWO AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used
 * Secure areas such as EVA are to be left unbolted and ready to be used for their intended purposes. Exceptions are below;
 * The Vault is not to be opened unless repairs are required, goWAHAWPFAW{FMIPAW{MF{AWI{OIAMFW{OIMFPAIOWMFld is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe
 * Searches of a person or department need to have a signed and stamped warrant by the Captain or HoP.
